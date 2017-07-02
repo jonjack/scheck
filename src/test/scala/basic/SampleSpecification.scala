@@ -1,5 +1,8 @@
+package basic
+
 import org.scalacheck.Properties
 import org.scalacheck.Prop.forAll
+import org.scalacheck.Prop._
 
 object SampleSpecification extends Properties("A sample test specification") {
 
@@ -7,7 +10,13 @@ object SampleSpecification extends Properties("A sample test specification") {
     l1.size + l2.size == (l1 ::: l2).size
   }
 
+  /**
+   * See https://github.com/oscarrenalias/scalacheck-cookbook/blob/master/markdown/analyzing-test-data.md
+   */
   property("Check concatenated string") = forAll { (a:String, b:String) =>
-    a.concat(b) == a + b}
+    collect(a, b) {
+      a.concat(b) == a + b
+    }
+  }
 
 }
