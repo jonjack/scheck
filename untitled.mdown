@@ -1,0 +1,40 @@
+
+
+GET /users - which takes priority if client supplies both `id` and `email`
+
+
+If POST and already users exist then pass back Duplicate ? And 
+
+I will write this as a chronological list of events and let the reader make their own judgment:-
+
+Friday 30th June 2017
+
+I will write this as a chronological list of events and let the reader make their own judgment:-
+I will write this as a chronological list of events and let the reader make their own judgment:-
+
+Friday 30th June 2017
+
+11:05 PM - arrived at the hotel after booking a family room via phone call earlier in the evening. My wife did the paperwork at the reception. There were a few other people waiting to check in as well so we waited about 10 minutes or the member of staff on duty to sort them out.
+
+11:15 PM - The member staff on duty informs us that he needs to check that the room is ready.
+
+11:25 PM - Staff returns informing us that the room was not ready and would have to be made up. We are a bit tired after driving and have a 12-year-old with us so this is a bit disappointing - but stuff happens so we are ok with it. My wife asks how long it will be before we can get in the room. The member of staff says about 5 minutes. He disappears and reappears a few minutes later with loads of bedding and disappears again. Ok, cool we will hang around then.
+
+11:40 PM - Staff returns to reception - there are few other people waiting here now and he is the only one on duty - fair enough, it is almost midnight. He sorts these guests out.
+
+11:50 PM - I interrupt the staff member on duty who is still sorting some other query out and ask for the room key. He asks if I can wait a moment.
+
+11:55 PM - The staff member comes out from reception and tells me that the room is not ready yet. I state that we were under the impression that this has been done about half an hour ago - he looks confused and says he has had to sort out other rooms first. I then ask if he can give us sheets and we will change the beds ourselves - my kid is asleep in reception at this point. He gets some bedding and he takes us to the first floor.
+
+12:00 AM - The room looks like there has been a fight going on, it is a right tip and my wife is not happy since it's not just a case of changing the sheets. I tell the member of staff that he has not been straight with us since he had stated, over half an hour ago, that the room would be ready in 5 minutes. He's confused. We ask if there is another room. He states that the hotel is full. Ok, things are not going well and being cross at him isn't going to help so I tell my wife I will find another hotel quickly and let us return to reception. The member of staff tells us on the way back to the reception that he thinks that the room had not been ready because the electrics in the room had been faulty.
+
+12:30 AM - we manage to find a hotel about 10 miles away - it's expensive but I'm past caring now. I ask the member of staff if he can guarantee that I will not be charged for the room and he states that I should not be charged. We clear off.
+
+Later that morning (after a short sleep in an expensive hotel in Bristol) I received a call from the gentleman that had taken my booking the previous evening and he gave me a very nice apology and had stated that the cleaners were to blame because they had reported that all the rooms were ready when they had left the previous day.
+
+Make of this what you will, but I think I will avoid Day's Inns in the future if I am traveling late in the evening. This was very possibly just a bad set of circumstances and my family were perhaps just unlucky, but it does highlight the risks of using a budget chain ie. you cannot really expect any customer service in the event that things don't go to plan because of th amount of cost-cutting inolved.
+
+I did intend trying to send this to Days Inn customer service first before publishing it and boring everyone, but their website only provides a telephone number to call.
+
+
+
