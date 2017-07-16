@@ -12,9 +12,9 @@ object SampleSpecification extends Properties("A sample test specification") {
   
   property("Concatenated string starts with") = forAll { (a: String, b: String) => (a+b).startsWith(a) }
   
-  val concatStringStrtsWith = forAll { (a: String, b: String) => (a+b).startsWith(a) }
+  val concatStringStartsWith = forAll { (a: String, b: String) => (a+b).startsWith(a) }
   
-  val concatStringStrtsWith2 = forAll { (s1: String, s2: String) => collect(s1, s2) { (s1 + s2).startsWith(s1) } }
+  val concatStringStartsWith2 = forAll { (s1: String, s2: String) => collect(s1, s2) { (s1 + s2).startsWith(s1) } }
   
   /*
   property("check integer set threshold") = forAll { (iset: Set[Int]) =>
